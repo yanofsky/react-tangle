@@ -2,6 +2,8 @@
 
 A [tangle.js](http://worrydream.com/Tangle/)-style numeric input for React.js.
 
+This fork is so that the component is compatible with react 0.14.5
+
 # api
 
 **required**
