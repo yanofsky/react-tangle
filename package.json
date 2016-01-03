@@ -1,8 +1,8 @@
 {
   "name": "react-tangle",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "tangle.js style input elements for react",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "test": "tape test.js",
     "start": "watchify example/site.js -o example/bundle.js & st -nc"
