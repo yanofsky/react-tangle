@@ -108,7 +108,6 @@ var TangleText = React.createClass({
     }
   },
   render: function() {
-    /* jshint ignore:start */
     return (
       <div>
         <input
@@ -124,7 +123,6 @@ var TangleText = React.createClass({
           value={this.props.format(this.state.value)} />
       </div>
     );
-    /* jshint ignore:end */
   }
 });
 
